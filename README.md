@@ -1,5 +1,5 @@
 
-# 120 Years of Olympic History
+# Olympic Insights: Data Through the Decades
 
 This project explores the rich history of the Olympics over 120 years using data analysis techniques. The analysis is performed on a comprehensive dataset that includes information about athletes, medals, sports, and more.
 
